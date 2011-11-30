@@ -461,8 +461,8 @@ a:hover{
 
 /* СТРАНИЦА index */
 .b-ears{
-	background: url(../img/bg_indexears.jpg) center center repeat-x;
-	height: 235px;
+	background: url(../img/bg_indexears.jpg) center -30px repeat-x;
+	height: 205px;
 	text-align: center;
 	padding: 0px 0px 0px 18px;
 }
@@ -471,7 +471,7 @@ a:hover{
 	float: left;
 	background: url(../img/bg_ears.png) center center no-repeat;
 	width: 308px;
-	height: 227px;
+	height: 197px;
 	color: #1A3DC1;
 	cursor: pointer;
 }
@@ -483,7 +483,7 @@ a:hover{
 	display: block;
 	width: 308px;
 	height: 57px;
-	padding: 170px 0px 0px;
+	padding: 140px 0px 0px;
 	text-align: center;
 	font-size: 1.5em;
 	color: #1A3DC1;
